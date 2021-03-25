@@ -1,0 +1,111 @@
+.box{
+    border: 2px solid;
+    border-color: red;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+}
+.mainHeading{
+    margin-left: 141px;
+    margin-top: 10px;
+}
+.button{
+     /* display: flex;
+     margin-left: 80%; */
+    float: right;
+}
+.menu{
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+.para{
+    margin-left: 40px;
+}
+.img{
+    margin-left: 45px;
+}
+.para2{
+    margin-bottom: 0;
+    font-size: medium;
+    font-weight: bold;
+}
+.card1{
+    padding-top: 20px;
+    padding-bottom: 22px;
+    padding-left: 29px;
+}
+.card2{
+    padding-top: 20px;
+    padding-bottom: 22px;
+}
+.card3{
+    padding-top: 20px;
+    padding-bottom: 22px;
+    height: 100px !important;
+    width: 50px  !important;
+}
+.box2{
+    border: 2px solid;
+    border-color: red;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    margin-left: 110px;
+    margin-top: 25px;
+
+}
+.box1{
+    border: 2px solid;
+    border-color: red;
+    width: 90% !important;
+    display: flex;
+    align-items: center;
+    margin-left: 160px;
+    margin-top: 25px;
+}
+.heading{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    margin-top: -275px;
+}
+.icons{
+    letter-spacing: 2px;
+}
+.menu2{
+    margin-left: 190px;
+    position: relative;
+    margin-top: -270px;
+}
+.list{
+    margin-top: 10%;
+    position: relative;
+}
+.btn1{
+    margin-top: -178px;
+    margin-left: 359px;
+    position: relative;
+
+}
+.btn2{
+    margin-left: 359px;
+    position: relative;
+    margin-top: -140px ;
+
+}
+.logo{
+    margin-left: 40rem;
+}
+.list2{
+    position: relative;
+    margin-top: 91px;
+    margin-left: -428px;
+    width: 400px;
+}
+
+/* .btns{
+    align-items: flex-end;
+    display: flex;
+} */
